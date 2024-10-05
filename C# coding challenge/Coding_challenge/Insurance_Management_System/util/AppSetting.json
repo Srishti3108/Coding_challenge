@@ -1,0 +1,5 @@
+{
+  "connectionstring": {
+    "LocalConnectionString": "Server=DESKTOP-DDKO0J5;Database=Insurance_Management_System;Trusted_Connection=True"
+  }
+}
